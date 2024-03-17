@@ -1,0 +1,18 @@
+﻿  연구발표3-행맨.c
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(28,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(34,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(40,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(46,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(52,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(58,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(64,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(70,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(76,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\rn.h(82,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(53,9): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(15,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(14,6): warning C4101: 'R' :참조되지 않은 지역 변수입니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(207,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(225,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jamon\source\repos\연구발표3-행맨\연구발표3-행맨\연구발표3-행맨.c(234,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  연구발표3-행맨.vcxproj -> C:\Users\jamon\source\repos\연구발표3-행맨\Debug\연구발표3-행맨.exe
